@@ -1,0 +1,2 @@
+# kidd-word
+another repository
